@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600584609 source:d:\myfile\crc-lib-c\crclib.c
+	"crcLib.h"
+
+1600596279 d:\myfile\crc-lib-c\crclib.h
+	"stdint.h"
+
+1600596694 source:d:\myfile\crc-lib-c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"crcLib.h"
+
